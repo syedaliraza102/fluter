@@ -2,6 +2,12 @@
 
 Production-ready Flutter Web application for managing products with full CRUD operations backed by **Cloud Firestore**.
 
+## Links
+
+- **Live app:** https://syedaliraza102.github.io/fluter/
+- **Repository:** https://github.com/syedaliraza102/fluter
+- **Deploy status:** https://github.com/syedaliraza102/fluter/actions
+
 ## Features
 
 - Add, view, edit, and delete products
