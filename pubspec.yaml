@@ -1,0 +1,22 @@
+name: product_management
+description: Production-ready Flutter Web app for Product Management with Firebase Firestore.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.8.1
+  cloud_firestore: ^5.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  fake_cloud_firestore: ^3.0.2
+
+flutter:
+  uses-material-design: true
